@@ -10,7 +10,7 @@ _____
 Определите, содержит ли связанный список цикл.
   
 Вход: head = [3,2,0,-4], pos = 1  
-<img width="309" height="102" alt="image" src="https://github.com/user-attachments/assets/fed5a193-635f-4ff9-82ab-6c79fb7ae9a0" /># LeetCode
+<img width="309" height="102" alt="image" src="https://github.com/user-attachments/assets/fed5a193-635f-4ff9-82ab-6c79fb7ae9a0" />  
 Выход: true
 _____ 
 ## Задача 3 (Easy) (объединить 2 отсортированных массива)
