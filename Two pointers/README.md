@@ -29,7 +29,7 @@
 125) Строка s.
 Вернуть значение, true если она является палиндромом или false иначе  
    
-Ввод: s = "A man, a plan, a canal: Panama"
+Ввод: s = "A man, a plan, a canal: Panama"  
 Выход: true
 _____ 
 ## Задача 141 Linked List Cycle (Easy) (Содержит ли связный список цикл)
