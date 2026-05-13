@@ -35,7 +35,7 @@
    
 Ввод: s = "A man, a plan, a canal: Panama"  
 Выход: true
-_____ 
+
 ## Задача 141 Linked List Cycle (Easy) (Содержит ли связный список цикл)
 141) Дано head  связанного списка.  
 Определите, содержит ли связанный список цикл.
@@ -43,7 +43,7 @@ _____
 Вход: head = [3,2,0,-4], pos = 1  
 <img width="309" height="102" alt="image" src="https://github.com/user-attachments/assets/fed5a193-635f-4ff9-82ab-6c79fb7ae9a0" />  
 Выход: true
-_____ 
+
 ## Задача 160. Intersection of Two Linked Lists (Easy) (Найти пересчение 2ух связных списков)
 160) 2 целочисленных массива arr1 и arr2, отсортированные в порядке неубывания  
 headA и headB
@@ -52,6 +52,5 @@ headA и headB
 Вход: listA = [1,9,1,2,4], listB = [3,2,4]  
 <img width="309" height="102" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
 Выход: т.2  
-_____
 
 ## Задача 876 Middle of the Linked List (Easy) ()
