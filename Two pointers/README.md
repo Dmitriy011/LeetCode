@@ -30,7 +30,7 @@
 ## Задача 88 Merge Sorted Array (Easy) () 
 
 ## Задача 125 Valid Palindrome (Easy) (Строка палиндром?)
-125) Строка s.
+125) Строка s.  
 Вернуть значение, true если она является палиндромом или false иначе  
    
 Ввод: s = "A man, a plan, a canal: Panama"  
