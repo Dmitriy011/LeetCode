@@ -9,7 +9,7 @@ _____
 141) Дано head  связанного списка.  
 Определите, содержит ли связанный список цикл.
   
-Вход: head = [3,2,0,-4], pos = 1
+Вход: head = [3,2,0,-4], pos = 1  
 <img width="309" height="102" alt="image" src="https://github.com/user-attachments/assets/fed5a193-635f-4ff9-82ab-6c79fb7ae9a0" /># LeetCode
 Выход: true
 _____ 
