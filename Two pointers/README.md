@@ -25,6 +25,10 @@
 Пять элементов могут быть возвращены в любом порядке.   
 Не имеет значения, что вы оставите после возвращаемого k (поэтому они являются символами подчеркивания).
 
+## Задача 28 Find the Index of the First Occurrence in a String (Easy) () 
+
+## Задача 88 Merge Sorted Array (Easy) () 
+
 ## Задача 125 Valid Palindrome (Easy) (Строка палиндром?)
 125) Строка s.
 Вернуть значение, true если она является палиндромом или false иначе  
@@ -49,3 +53,5 @@ headA и headB
 <img width="309" height="102" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
 Выход: т.2  
 _____
+
+## Задача 876 Middle of the Linked List (Easy) ()
