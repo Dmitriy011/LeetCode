@@ -25,7 +25,7 @@ _____
 headA и headB
 Верните узел, в котором эти два списка пересекаются (если два связанных списка не пересекаются, верните null)
 
-Вход: listA = [1,9,1,2,4], listB = [3,2,4]
-<img width="502" height="217" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />
+Вход: listA = [1,9,1,2,4], listB = [3,2,4]  
+<img width="502" height="217" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
 Выход: т.2  
 _____
