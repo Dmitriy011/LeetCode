@@ -96,6 +96,8 @@ headA и headB
 - it1 на pos (size1 - size2)
 - it1++, it2++ пока возможно
 - return it1, если it1 == it2
+<img width="1098" height="313" alt="image" src="https://github.com/user-attachments/assets/6f60f5b6-43eb-4008-8ab3-3682a9095fc1" />
+
 
 ## 👌 Задача 876 Middle of the Linked List (Easy) (Найти середину связного списка)
 876) head односвязного списка.  
