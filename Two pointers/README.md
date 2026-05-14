@@ -90,7 +90,7 @@ headA и headB
 
 Вход: listA = [1,9,1,2,4], listB = [3,2,4]  
 Выход: т.2   
-<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
+<img width="75" height="35" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
 
 - подсчитать размер sizeA, sizeB (пусть sizeA > sizeB)
 - it1 на pos (size1 - size2)
