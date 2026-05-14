@@ -18,6 +18,10 @@
 Вход: nums = [1,1,2]  
 Выход: 2, nums = [1,2,_]
 
+-  int slow = 0, fast = 1
+-  while (fast < nums.size()): Если nums[slow] != nums[fast], то slow++ и nums[slow] = nums[fast]; ++fast;
+-  return slow + 1
+
 ## Задача 27 Remove Element (Easy) (Удалить все вхождения val в arr)  
 27) Массив целых чисел arr целое число val.  
 Удалите все вхождения val на arr месте из массива (порядок элементов может быть изменен)
@@ -28,6 +32,10 @@
 Пояснение: Ваша функция должна возвращать k = 5, причем первые пять элементов arr должны содержать 0, 0, 1, 3 и 4.  
 Пять элементов могут быть возвращены в любом порядке.   
 Не имеет значения, что вы оставите после возвращаемого k (поэтому они являются символами подчеркивания).
+
+- for (auto it = arr.begin(); it != arr.end(); )
+- Если *it == val, то it = arr.erase(it); Иначе: it++
+- return arr.size();
 
 ## Задача 28 Find the Index of the First Occurrence in a String (Easy) (Индекс 1го вхождения str needle в haystack) 
 28) 2 строки needle и haystack.  
