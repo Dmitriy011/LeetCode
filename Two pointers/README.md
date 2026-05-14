@@ -20,7 +20,7 @@
 
 -  int slow = 0, fast = 1
 -  while (fast < nums.size()):  
-Если nums[slow] != nums[fast], то slow++ и nums[slow] = nums[fast];  
+if (nums[slow] != nums[fast]) -> slow++ и nums[slow] = nums[fast];  
 ++fast;
 -  return slow + 1
 
