@@ -67,7 +67,11 @@
 Выход: true  
 <img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/fed5a193-635f-4ff9-82ab-6c79fb7ae9a0" />  
 
--  while (fast && fast->next): fast = fast->next->next; slow = slow->next; if (fast == slow) -> return true;  
+-  while (fast && fast->next):
+fast = fast->next->next;  
+slow = slow->next;  
+if (fast == slow) -> return true;
+- return false
 
 
 ## 👌 Задача 160. Intersection of Two Linked Lists (Easy) (Найти пересчение 2ух связных списков)
