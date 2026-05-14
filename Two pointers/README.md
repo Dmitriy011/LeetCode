@@ -6,8 +6,8 @@
 Выход: [1,2,3,5]
 
 - <small><small>fast вперед на n</small></small>
-- <font size="1">while (fast && fast->next): fast, slow ++</font>  
-- <font size="1">ListNode* toDelete = slow->next;</font>
+- <font size="0.5">while (fast && fast->next): fast, slow ++</font>  
+- <font size="0.5">ListNode* toDelete = slow->next;</font>
 
 ## Задача 26 Remove Duplicates from Sorted Array (Easy) (Удалить дубликаты из отсортированного arr)  
 26) Массив целых чисел arr, отсортированный в порядке неубывания.  
