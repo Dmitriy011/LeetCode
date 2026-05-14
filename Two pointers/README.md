@@ -59,13 +59,16 @@
 Ввод: s = "A man, a plan, a canal: Panama"  
 Выход: true
 
-## Задача 141 Linked List Cycle (Easy) (Содержит ли связный список цикл)
+## 👌 Задача 141 Linked List Cycle (Easy) (Содержит ли связный список цикл)
 141) Дано head  связанного списка.  
 Определите, содержит ли связанный список цикл.
   
 Вход: head = [3,2,0,-4], pos = 1  
 Выход: true  
 <img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/fed5a193-635f-4ff9-82ab-6c79fb7ae9a0" />  
+
+-  while (fast && fast->next): fast = fast->next->next; slow = slow->next; if (fast == slow) -> return true;  
+
 
 ## 👌 Задача 160. Intersection of Two Linked Lists (Easy) (Найти пересчение 2ух связных списков)
 160) 2 целочисленных массива arr1 и arr2, отсортированные в порядке неубывания  
