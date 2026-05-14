@@ -63,7 +63,8 @@
 - L = 0, R = s.length() - 1;
 - while (L < R):  
 if (s[L] != s[R]) -> return false;  
-else -> --R ++L  
+else -> --R ++L
+- return true 
 
 ## 👌 Задача 141 Linked List Cycle (Easy) (Содержит ли связный список цикл)
 141) Дано head  связанного списка.  
