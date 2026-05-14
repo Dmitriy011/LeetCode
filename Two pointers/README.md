@@ -6,7 +6,7 @@
 Выход: [1,2,3,5]
 
 - fast вперед на n
-- fast, slow вперед while (fast && fast->next)
+- while (fast && fast->next): fast, slow ++  
 - ListNode* toDelete = slow->next;
 
 ## Задача 26 Remove Duplicates from Sorted Array (Easy) (Удалить дубликаты из отсортированного arr)  
