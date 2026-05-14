@@ -8,7 +8,7 @@
 - fast вперед на n  
 - while (fast && fast->next): fast, slow ++  
 - ListNode* toDelete = slow->next;  
-<img width="500" height="75" alt="image" src="https://github.com/user-attachments/assets/239c543d-a2c5-4fcf-a726-7d90a456c25f" />
+<img width="1100" height="315" alt="image" src="https://github.com/user-attachments/assets/239c543d-a2c5-4fcf-a726-7d90a456c25f" />
 
 
 ## Задача 26 Remove Duplicates from Sorted Array (Easy) (Удалить дубликаты из отсортированного arr)  
@@ -96,7 +96,7 @@ headA и headB
 - it1 на pos (size1 - size2)
 - it1++, it2++ пока возможно
 - return it1, если it1 == it2
-<img width="1098" height="313" alt="image" src="https://github.com/user-attachments/assets/6f60f5b6-43eb-4008-8ab3-3682a9095fc1" />
+<img width="1100" height="315" alt="image" src="https://github.com/user-attachments/assets/6f60f5b6-43eb-4008-8ab3-3682a9095fc1" />
 
 
 ## 👌 Задача 876 Middle of the Linked List (Easy) (Найти середину связного списка)
@@ -106,5 +106,5 @@ headA и headB
 - fast, slow
 - while (fast && fast->next): fast = fast->next->next; slow = slow->next;
 - return slow  
-<img width="500" height="75" alt="image" src="https://github.com/user-attachments/assets/725193d2-9823-41ea-94b4-4cc1fe27b4ef" />
+<img width="1100" height="315" alt="image" src="https://github.com/user-attachments/assets/725193d2-9823-41ea-94b4-4cc1fe27b4ef" />
 
