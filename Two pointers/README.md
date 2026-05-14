@@ -104,7 +104,7 @@ headA и headB
 <img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/e59cac1d-ac9e-4c15-9fc8-28155c62fe55" />
 
 <img width="1100" height="150" alt="image" src="https://github.com/user-attachments/assets/86239857-2976-484d-acda-69076cb4d8a5" />
-<img width="721" height="969" alt="image" src="https://github.com/user-attachments/assets/bbe040dd-537b-4824-bc11-576130ddda8b" />
+<img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/bbe040dd-537b-4824-bc11-576130ddda8b" />
 
 
 
