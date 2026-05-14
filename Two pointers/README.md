@@ -5,9 +5,9 @@
 Вход: head = [1,2,3,4,5], n = 2  
 Выход: [1,2,3,5]
 
-- fast вперед на n
-- while (fast && fast->next): fast, slow ++  
-- ListNode* toDelete = slow->next;
+- <small>fast вперед на n</small>
+- <small>while (fast && fast->next): fast, slow ++</small>  
+- <small>ListNode* toDelete = slow->next;</small>
 
 ## Задача 26 Remove Duplicates from Sorted Array (Easy) (Удалить дубликаты из отсортированного arr)  
 26) Массив целых чисел arr, отсортированный в порядке неубывания.  
