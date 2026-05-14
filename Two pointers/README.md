@@ -8,7 +8,7 @@
 - fast вперед на n  
 - while (fast && fast->next): fast, slow ++  
 - ListNode* toDelete = slow->next;  
-<img width="1100" height="315" alt="image" src="https://github.com/user-attachments/assets/239c543d-a2c5-4fcf-a726-7d90a456c25f" />
+<img width="550" height="150" alt="image" src="https://github.com/user-attachments/assets/239c543d-a2c5-4fcf-a726-7d90a456c25f" />
 
 
 ## Задача 26 Remove Duplicates from Sorted Array (Easy) (Удалить дубликаты из отсортированного arr)  
