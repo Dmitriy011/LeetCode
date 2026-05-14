@@ -76,6 +76,11 @@ headA и headB
 Выход: т.2   
 <img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
 
+- подсчитать размер sizeA, sizeB (пусть sizeA > sizeB)
+- it1 на pos (size1 - size2)
+- it1++, it2++ пока возможно
+- return it1, если it1 == it2
+
 ## Задача 876 Middle of the Linked List (Easy) (Найти середину связного списка)
 876) head односвязного списка.  
 Верните средний узел этого списка (если есть 2 промежуточных узла, верните 2ой промежуточный узел)
