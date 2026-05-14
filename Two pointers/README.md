@@ -62,4 +62,6 @@ headA и headB
 <img width="309" height="102" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
 Выход: т.2  
 
-## Задача 876 Middle of the Linked List (Easy) ()
+## Задача 876 Middle of the Linked List (Easy) (Найти середину связного списка)
+876) head односвязного списка.  
+Верните средний узел этого списка (если есть 2 промежуточных узла, верните 2ой промежуточный узел)
