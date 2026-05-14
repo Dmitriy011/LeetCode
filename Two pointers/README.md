@@ -25,9 +25,9 @@
 Пять элементов могут быть возвращены в любом порядке.   
 Не имеет значения, что вы оставите после возвращаемого k (поэтому они являются символами подчеркивания).
 
-## Задача 28 Find the Index of the First Occurrence in a String (Easy) (Индекс первого вхождения строки needle в haystack) 
+## Задача 28 Find the Index of the First Occurrence in a String (Easy) (Индекс 1го вхождения строки needle в haystack) 
 28) 2 строки needle и haystack.  
-Верните индекс первого вхождения строки needle в haystack, или , -1 если needle строка не является частью haystack.
+Верните индекс 1го вхождения строки needle в haystack, или , -1 если needle строка не является частью haystack.
 
 ## Задача 88 Merge Sorted Array (Easy) (Объединить 2 отсортированных массива) 
 88) 2 целочисленных массива arr1 и arr2, отсортированные в порядке неубывания  
