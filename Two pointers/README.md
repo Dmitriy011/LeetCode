@@ -1,12 +1,13 @@
 ## Задача 19 Remove Nth Node From End of List (Easy) (Удалить из конца списка n-ый эл)  
 19) head узел связанного списка  
 Удалите n-ый эл с конца списка
-- fast вперед на n
-- fast, slow вперед while (fast && fast->next)
-- ListNode* toDelete = slow->next;
 
 Вход: head = [1,2,3,4,5], n = 2  
 Выход: [1,2,3,5]
+
+- fast вперед на n
+- fast, slow вперед while (fast && fast->next)
+- ListNode* toDelete = slow->next;
 
 ## Задача 26 Remove Duplicates from Sorted Array (Easy) (Удалить дубликаты из отсортированного arr)  
 26) Массив целых чисел arr, отсортированный в порядке неубывания.  
