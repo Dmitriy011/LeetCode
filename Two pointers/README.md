@@ -64,8 +64,8 @@
 Определите, содержит ли связанный список цикл.
   
 Вход: head = [3,2,0,-4], pos = 1  
-<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/fed5a193-635f-4ff9-82ab-6c79fb7ae9a0" />  
 Выход: true
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/fed5a193-635f-4ff9-82ab-6c79fb7ae9a0" />  
 
 ## Задача 160. Intersection of Two Linked Lists (Easy) (Найти пересчение 2ух связных списков)
 160) 2 целочисленных массива arr1 и arr2, отсортированные в порядке неубывания  
@@ -73,8 +73,8 @@ headA и headB
 Верните узел, в котором эти два списка пересекаются (если два связанных списка не пересекаются, верните null)
 
 Вход: listA = [1,9,1,2,4], listB = [3,2,4]  
-<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
 Выход: т.2  
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
 
 ## Задача 876 Middle of the Linked List (Easy) (Найти середину связного списка)
 876) head односвязного списка.  
