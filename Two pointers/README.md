@@ -79,3 +79,7 @@ headA и headB
 ## Задача 876 Middle of the Linked List (Easy) (Найти середину связного списка)
 876) head односвязного списка.  
 Верните средний узел этого списка (если есть 2 промежуточных узла, верните 2ой промежуточный узел)
+   
+- fast, slow
+- while (fast && fast->next): fast = fast->next->next; slow = slow->next;
+- return slow
