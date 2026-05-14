@@ -19,7 +19,9 @@
 Выход: 2, nums = [1,2,_]
 
 -  int slow = 0, fast = 1
--  while (fast < nums.size()): Если nums[slow] != nums[fast], то slow++ и nums[slow] = nums[fast]; ++fast;
+-  while (fast < nums.size()):  
+Если nums[slow] != nums[fast], то slow++ и nums[slow] = nums[fast];  
+++fast;
 -  return slow + 1
 
 ## Задача 27 Remove Element (Easy) (Удалить все вхождения val в arr)  
