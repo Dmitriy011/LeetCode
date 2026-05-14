@@ -90,13 +90,13 @@ headA и headB
 
 Вход: listA = [1,9,1,2,4], listB = [3,2,4]  
 Выход: т.2   
-<img width="75" height="35" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
+<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
 
 - подсчитать размер sizeA, sizeB (пусть sizeA > sizeB)
 - it1 на pos (size1 - size2)
 - it1++, it2++ пока возможно
 - return it1, если it1 == it2
-<img width="1100" height="315" alt="image" src="https://github.com/user-attachments/assets/6f60f5b6-43eb-4008-8ab3-3682a9095fc1" />
+<img width="550" height="150" alt="image" src="https://github.com/user-attachments/assets/6f60f5b6-43eb-4008-8ab3-3682a9095fc1" />
 
 ## 👌Задача 234. Palindrome linked list (Easy) (Связный список палиндром?)
 234) head односвязн списка
