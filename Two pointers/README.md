@@ -52,7 +52,9 @@ if (nums[slow] != nums[fast]) -> slow++ и nums[slow] = nums[fast];
 Окончательно отсортированный массив должен храниться внутри массива arr (для этого arr1 имеет длину m + n, где 1ые m эл обозначают те, которые следует объединить, а последние n эл имеют знач 0)
   
 Ввод: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
-Выход: [1,2,2,3,5,6]
+Выход: [1,2,2,3,5,6]  
+<img width="700" height="160" alt="image" src="https://github.com/user-attachments/assets/21b10830-ccde-4adb-a4ca-28247a5b9dde" />
+
 
 ## 👌 Задача 125 Valid Palindrome (Easy) (Строка палиндром?)
 125) Строка s.  
