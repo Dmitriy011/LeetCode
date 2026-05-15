@@ -45,7 +45,7 @@ if (nums[slow] != nums[fast]) -> slow++ и nums[slow] = nums[fast];
 28) 2 строки needle и haystack.  
 Верните индекс 1го вхождения строки needle в haystack, или , -1 если needle строка не является частью haystack.
 
-## Задача 88 Merge Sorted Array (Easy) (Объединить 2 отсортированных arr) 
+## 👌 Задача 88 Merge Sorted Array (Easy) (Объединить 2 отсортированных arr) 
 88) 2 целочисленных массива arr1 и arr2, отсортированные в порядке неубывания  
 2 целых числа m и n - количество элементов в arr1 и arr2.  
 Объединить arr1 и arr2 в один массив, отсортированный в порядке неубывания.  
@@ -53,6 +53,10 @@ if (nums[slow] != nums[fast]) -> slow++ и nums[slow] = nums[fast];
   
 Ввод: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
 Выход: [1,2,2,3,5,6]  
+
+- p1 = m - 1; p2 = n - 1; cur = m + n - 1
+- Сравниваем элементы while(p1 >=0 && p2 >= 0): Если эл под p1 больше, то записываем его на Pos cur и --p1, -- cur (аналогично для p2)
+- Дописываем оставшиеся элементы под cur и --cur  
 <img width="700" height="160" alt="image" src="https://github.com/user-attachments/assets/21b10830-ccde-4adb-a4ca-28247a5b9dde" />
 
 
