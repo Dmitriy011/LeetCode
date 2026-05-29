@@ -1,5 +1,5 @@
 ## 👌 Задача 191 Number of 1 Bits (Easy) (Кол-во единиц в двоичном представлении)  
-191) Дано число n
+191) Дано число n  
 Кол-во единиц в двоичном представлении числа n
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/14192d6e-cb7b-452a-9f81-62b04785a51a" />
 
