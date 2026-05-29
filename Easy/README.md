@@ -1,7 +1,7 @@
 ## 👌 Задача 191 Number of 1 Bits (Easy) (Кол-во единиц в двоичном представлении)  
 191) Дано число n  
 Кол-во единиц в двоичном представлении числа n
-<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/14192d6e-cb7b-452a-9f81-62b04785a51a" />
+<img width="175" height="200" alt="image" src="https://github.com/user-attachments/assets/14192d6e-cb7b-452a-9f81-62b04785a51a" />
 
 ## Задача 1 (Easy) (Найти 2 числа в сумме равных target)
 1) Массив целых чисел arr и целое число target.
