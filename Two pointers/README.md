@@ -40,11 +40,7 @@ if (nums[slow] != nums[fast]) -> slow++ и nums[slow] = nums[fast];
 Ввод: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3  
 Выход: [1,2,2,3,5,6]  
 
-- p1 = m - 1; p2 = n - 1; cur = m + n - 1
-- Сравниваем элементы while(p1 >=0 && p2 >= 0): Если эл под p1 больше, то записываем его на Pos cur и --p1, -- cur (аналогично для p2)
-- Дописываем оставшиеся элементы под cur и --cur  
-<img width="700" height="160" alt="image" src="https://github.com/user-attachments/assets/21b10830-ccde-4adb-a4ca-28247a5b9dde" />
-
+<img width="390" height="322" alt="image" src="https://github.com/user-attachments/assets/9e2f6507-74f9-4375-9f02-a775395964e3" />
 
 ## 👌 Задача 125 Valid Palindrome (Easy) (Строка палиндром?)
 125) Строка s. Вернуть значение, true если она является палиндромом или false иначе  
