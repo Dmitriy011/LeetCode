@@ -4,9 +4,7 @@
 - fast вперед на n  
 - while (fast && fast->next): fast, slow ++  
 - ListNode* toDelete = slow->next;  
-<img width="207" height="217" alt="image" src="https://github.com/user-attachments/assets/72e24a01-f66a-4e19-a84a-0da315272f55" />
-
-
+<img width="155" height="193" alt="image" src="https://github.com/user-attachments/assets/26778953-ddcd-45a9-bd45-b345298b3996" />
 
 ## Задача 26 Remove Duplicates from Sorted Array (Easy) (Удалить дубликаты из отсортированного arr)  
 26) Массив целых чисел arr, отсортированный в порядке неубывания.  
