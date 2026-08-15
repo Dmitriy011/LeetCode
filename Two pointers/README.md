@@ -87,6 +87,11 @@ headA и headB
 - return it1, если it1 == it2
 <img width="550" height="150" alt="image" src="https://github.com/user-attachments/assets/6f60f5b6-43eb-4008-8ab3-3682a9095fc1" />
 
+## 👌Задача 202. Happy Number (Easy) (Счастливое ли число?)
+202) n счастливое? Счастливое число — это число: начиная с любого положительного целого числа, замените это число суммой квадратов его цифр, повторяйте процесс до тех пор, пока число не станет равным 1. Те числа, для которых этот процесс заканчивается на 1, счастливы.
+<img width="230" height="90" alt="image" src="https://github.com/user-attachments/assets/8c81d387-760c-43f9-a2de-745e00ae62d3" />
+
+
 ## 👌Задача 234. Palindrome linked list (Easy) (Связный список палиндром?)
 234) head односвязн списка
 Верните значение true если это палиндром. False - иначе
