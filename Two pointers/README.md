@@ -72,7 +72,7 @@ headA и headB
 
 Вход: listA = [1,9,1,2,4], listB = [3,2,4]  
 - подсчитать размер sizeA, sizeB (пусть sizeA > sizeB)  
-<img width="522" height="684" alt="image" src="https://github.com/user-attachments/assets/d0e5dd03-1515-40b2-b50c-92280787be87" />
+<img width="100" height="300" alt="image" src="https://github.com/user-attachments/assets/d0e5dd03-1515-40b2-b50c-92280787be87" />
 
 ## 👌Задача 202. Happy Number (Easy) (Счастливое ли число?)
 202) n счастливое? Счастливое число — это число: начиная с любого положительного целого числа, замените это число суммой квадратов его цифр, повторяйте процесс до тех пор, пока число не станет равным 1. Те числа, для которых этот процесс заканчивается на 1, счастливы.
