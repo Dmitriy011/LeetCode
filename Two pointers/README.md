@@ -110,5 +110,6 @@ headA и headB
 - fast, slow
 - while (fast && fast->next): fast = fast->next->next; slow = slow->next;
 - return slow  
-<img width="270" height="75" alt="image" src="https://github.com/user-attachments/assets/725193d2-9823-41ea-94b4-4cc1fe27b4ef" />
+<img width="279" height="53" alt="image" src="https://github.com/user-attachments/assets/ccd9bd62-6602-486e-aafc-a3dcd40baf2f" />
+
 
