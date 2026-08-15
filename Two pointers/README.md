@@ -71,14 +71,8 @@ headA и headB
 Верните узел, в котором эти два списка пересекаются (если два связанных списка не пересекаются, верните null)
 
 Вход: listA = [1,9,1,2,4], listB = [3,2,4]  
-Выход: т.2   
-<img width="150" height="75" alt="image" src="https://github.com/user-attachments/assets/41598398-049e-41cd-a136-d28e1aec5eb4" />  
-
-- подсчитать размер sizeA, sizeB (пусть sizeA > sizeB)
-- it1 на pos (size1 - size2)
-- it1++, it2++ пока возможно
-- return it1, если it1 == it2
-<img width="550" height="150" alt="image" src="https://github.com/user-attachments/assets/6f60f5b6-43eb-4008-8ab3-3682a9095fc1" />
+- подсчитать размер sizeA, sizeB (пусть sizeA > sizeB)  
+<img width="522" height="684" alt="image" src="https://github.com/user-attachments/assets/d0e5dd03-1515-40b2-b50c-92280787be87" />
 
 ## 👌Задача 202. Happy Number (Easy) (Счастливое ли число?)
 202) n счастливое? Счастливое число — это число: начиная с любого положительного целого числа, замените это число суммой квадратов его цифр, повторяйте процесс до тех пор, пока число не станет равным 1. Те числа, для которых этот процесс заканчивается на 1, счастливы.
