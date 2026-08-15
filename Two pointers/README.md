@@ -48,14 +48,8 @@ if (nums[slow] != nums[fast]) -> slow++ и nums[slow] = nums[fast];
 <img width="390" height="322" alt="image" src="https://github.com/user-attachments/assets/9e2f6507-74f9-4375-9f02-a775395964e3" />
 
 ## 👌 Задача 125 Valid Palindrome (Easy) (Строка палиндром?)
-125) Строка s. Вернуть значение, true если она является палиндромом или false иначе  
-
-- Преобразовать строку
-- L = 0, R = s.length() - 1;
-- while (L < R):  
-if (s[L] != s[R]) -> return false;  
-else -> --R ++L
-- return true 
+125) Строка s. Вернуть значение, true если она является палиндромом или false иначе
+<img width="234" height="50" alt="image" src="https://github.com/user-attachments/assets/a2f25d1f-d2c5-4a70-aa3a-bd75e7b6b951" />
 
 ## 👌 Задача 141 Linked List Cycle (Easy) (Содержит ли связный список цикл)
 141) Дано head  связанного списка.  
