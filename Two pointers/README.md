@@ -93,7 +93,6 @@ headA и headB
 ## 👌Задача 234. Palindrome linked list (Easy) (Связный список палиндром?)
 234) head односвязн списка
 Верните значение true если это палиндром. False - иначе
-<img width="400" height="160" alt="image" src="https://github.com/user-attachments/assets/08f97c4e-0d47-4221-9f88-295a30ab942b" />.  
 <img width="622" height="73" alt="image" src="https://github.com/user-attachments/assets/2d390de6-0287-46e1-ba1f-a671eb71936e" />.    
 <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/bbe040dd-537b-4824-bc11-576130ddda8b" />.     
 
