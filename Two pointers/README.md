@@ -67,9 +67,9 @@ if (fast == slow) -> return true;
 
 ## 👌 Задача 160. Intersection of Two Linked Lists (Easy) (Найти пересчение 2ух связных списков)
 160) 2 целочисленных массива arr1 и arr2, отсортированные в порядке неубывания  
-headA и headB.  
+headA и headB (Вход: listA = [1,9,1,2,4], listB = [3,2,4])   
 Верните узел, в котором эти два списка пересекаются (если два связанных списка не пересекаются, верните null)   
-Вход: listA = [1,9,1,2,4], listB = [3,2,4]  
+
 - подсчитать размер sizeA, sizeB (пусть sizeA > sizeB)  
 <img width="130" height="171" alt="image" src="https://github.com/user-attachments/assets/ba563f28-de03-4f3d-bd4d-b909b2faf938" />
 
