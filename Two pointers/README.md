@@ -59,8 +59,7 @@ if (nums[slow] != nums[fast]) -> slow++ и nums[slow] = nums[fast];
 Выход: true  
 
 -  while (fast && fast->next):  
-<img width="1326" height="199" alt="image" src="https://github.com/user-attachments/assets/9aea10cf-1e31-4cae-95d5-9f1d1f709b8f" />
-
+<img width="1087" height="194" alt="image" src="https://github.com/user-attachments/assets/8e0d4b18-965f-4cf7-a255-b3be17f5ebb9" />
 
 ## 👌 Задача 160. Intersection of Two Linked Lists (Easy) (Найти пересчение 2ух связных списков)
 160) 2 целочисленных массива arr1 и arr2, отсортированные в порядке неубывания  
