@@ -71,7 +71,6 @@ slow = slow->next;
 if (fast == slow) -> return true;
 - return false
 
-
 ## 👌 Задача 160. Intersection of Two Linked Lists (Easy) (Найти пересчение 2ух связных списков)
 160) 2 целочисленных массива arr1 и arr2, отсортированные в порядке неубывания  
 headA и headB  
@@ -91,12 +90,11 @@ headA и headB
 202) n счастливое? Счастливое число — это число: начиная с любого положительного целого числа, замените это число суммой квадратов его цифр, повторяйте процесс до тех пор, пока число не станет равным 1. Те числа, для которых этот процесс заканчивается на 1, счастливы.
 <img width="230" height="90" alt="image" src="https://github.com/user-attachments/assets/8c81d387-760c-43f9-a2de-745e00ae62d3" />
 
-
 ## 👌Задача 234. Palindrome linked list (Easy) (Связный список палиндром?)
 234) head односвязн списка
 Верните значение true если это палиндром. False - иначе
 <img width="400" height="160" alt="image" src="https://github.com/user-attachments/assets/08f97c4e-0d47-4221-9f88-295a30ab942b" />.  
-<img width="622" height="73" alt="image" src="https://github.com/user-attachments/assets/2d390de6-0287-46e1-ba1f-a671eb71936e" />
+<img width="622" height="73" alt="image" src="https://github.com/user-attachments/assets/2d390de6-0287-46e1-ba1f-a671eb71936e" />.    
 <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/bbe040dd-537b-4824-bc11-576130ddda8b" />.     
 
 ## 👌Задача 283. Move Zeroes (Easy) (Перенести нули в конец, оставив порядок ненулевых чисел)
