@@ -99,7 +99,9 @@ headA и headB
 <img width="550" height="75" alt="image" src="https://github.com/user-attachments/assets/86239857-2976-484d-acda-69076cb4d8a5" />.  
 <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/bbe040dd-537b-4824-bc11-576130ddda8b" />.     
 
-
+## 👌Задача 283. Move Zeroes (Easy) (Перенести нули в конец, оставив порядок ненулевых чисел)
+293) Дана целочисленная матрица nums
+<img width="356" height="120" alt="image" src="https://github.com/user-attachments/assets/1bc9a2d9-e7c6-4e84-92f8-64206b5e2d96" />
 
 ## 👌 Задача 876 Middle of the Linked List (Easy) (Найти середину связного списка)
 876) head односвязного списка.  
