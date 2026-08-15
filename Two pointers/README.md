@@ -1,7 +1,6 @@
 ## 👌 Задача 5 Add Two Numbers (сложить два связных списка)  
 5) 2а связанных списка, представляющих два неотрицательных целых числа. Цифры хранятся в обратном порядке. Сложите два числа и верните сумму в виде связанного списка.
-
-<img width="258" height="393" alt="image" src="https://github.com/user-attachments/assets/dfdd5fa9-93d3-4482-a361-6d49774a06df" />
+<img width="281" height="445" alt="image" src="https://github.com/user-attachments/assets/e6203624-e7bd-48b3-888c-d8ea606fe351" />
 
 
 ## 👌 Задача 19 Remove Nth Node From End of List (Easy) (Удалить из конца списка n-ый эл)  
